@@ -16,3 +16,22 @@ Le style graphique du jeu est **low-poly**, inspiré du premier *Star Fox* sorti
 - **Objets à récupérer** : Boucliers, armes, bonus de vitesse, etc.
 - **Look low-poly** : Graphismes inspirés du style graphique de *Star Fox* sur SNES.
 - **Niveaux et vagues d'ennemis** : Le jeu peut être organisé sous forme de niveaux ou vagues d'ennemis à détruire.
+
+
+# Star Fox Project
+
+## Description
+
+The Star Fox project is a recreation of a Star Fox-style game, developed using Three.js, a JavaScript library for creating 3D scenes. The game takes place in a space environment where the player controls a spaceship and can:
+
+Move up and down, left and right
+Accelerate or slow down based on their actions
+The game's graphics are low-poly, inspired by the first Star Fox released on the Super Nintendo. The gameplay includes enemies to defeat as well as collectible items such as shields, weapons, and speed boosts. The game will be structured with enemy waves or successive levels.
+
+## Features
+
+- **Free movement**: The spaceship can move freely in 3D space (up/down, left/right, accelerate/decelerate).
+- **Enemies**: Waves of enemies to fight, each with different behaviors.
+- **Collectible items**: Shields, weapons, speed boosts, etc.
+- **Low-poly look**: Graphics inspired by the Star Fox SNES style.
+- **Levels and enemy waves**: The game can be structured with levels or waves of enemies to defeat.
