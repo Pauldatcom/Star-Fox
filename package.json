@@ -1,0 +1,11 @@
+{
+  "name": "Star-Fox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Pauldatcom/Star-Fox.git",
+  "author": "Paulodatcom <paul.bajodek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.174.0"
+  }
+}
